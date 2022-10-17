@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuele Fittipaldi</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emanuele-fittipaldi-0b2119212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuele-fittipaldi-0b2119212" height="32" width="40" /></a>
 <a href="emanuelelavoro@hotmail.it" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="emanuelelavoro@hotmail.it" height="30" width="40" /></a>
@@ -10,7 +10,7 @@
 </p>
 
 
-<h3 align="center">Education:</h1>
+<h2 align="left">Education:</h1>
 <p align="left">
 <ul>
 <li> 📕 <strong>M.Sc. with a specialization in Cybersecurity: </strong>"Università degli Studi di Salerno", Fisciano(SA), Italy. Ongoing, anticipated graduation date: October 2023</li>
@@ -18,10 +18,10 @@
 </ul>
 </p>
 
-<h3 align="center">Experience:</h1>
+<h2 align="left">Experience:</h1>
 <strong>B.Sc. Internship for Thesis work at Jheronimus Academy of Data Science:</strong>Eindhoven, NL, February 2021 - May 2021
 
-<h3 align="center">Projects highlights</h3>
+<h2 align="left">Projects highlights</h3>
 <p><strong>Micro/Macro-expressions analysis through landmark analysis:</strong> April 2022 - June 2022 - Teamwork (3 people)
 <ul>
 <li>Designed an AI pipeline that was capable of detecting a micro-expression with an accuracy nearly of 70% just by analizing landmarks position of facial features.</li>
@@ -40,19 +40,16 @@
 </ul>
 </p>
 
-<h3 align="center">Activity and awards:</h1>
+<h2 align="left">Activity and awards:</h1>
 <ul>
 <li>Awarded x5 scholarships founded by Università degli Studi di salerno, given to students who passed all the exams of the semester</li>
 <li>Helped over 1'700 students on stuDocu.com by publishing notes about computer science subjects as computer theory, algorithms, cryptography and networks.</li>
 <li>Reached over 1'300 people by publishing weekly original contents on Linkedin about different computer science topics.</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/> </a></p>
+<h2 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>(proficient)<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> (basic)<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>(basic)<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>(proficient)<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>(basic)<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>(basic)<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>(proficient)
+<a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>(basic)<a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>(basic)<a href="https://www.latex-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/></a>(proficient)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanueleFittipaldi&show_icons=true&locale=en" alt="EmanueleFittipaldi" /></p>
 
