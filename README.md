@@ -14,7 +14,7 @@
 <p align="left">
 <ul>
 <li> 📕 <strong>M.Sc. with a specialization in Cybersecurity: </strong>"Università degli Studi di Salerno", Fisciano(SA), Italy. Ongoing, anticipated graduation date: October 2023</li>
-<li> 📕 <strong>B.Sc. in Computer Science: </strong>"Università degli Studi di Salerno", Fisciano(SA), Italy. October 2021, GPA:356, final grade 108/110</li>
+<li> 📕 <strong>B.Sc. in Computer Science: </strong>"Università degli Studi di Salerno", Fisciano(SA), Italy. October 2021, GPA:3.56, final grade 108/110</li>
 </ul>
 </p>
 
