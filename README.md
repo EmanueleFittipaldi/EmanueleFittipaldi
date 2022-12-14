@@ -13,38 +13,42 @@
 <h2 align="left">Education:</h1>
 <p align="left">
 <ul>
-<li> 📕 <strong>M.Sc. with a specialization in Cybersecurity: </strong>"Università degli Studi di Salerno", Fisciano(SA), Italy. Ongoing, anticipated graduation date: October 2023</li>
-<li> 📕 <strong>B.Sc. in Computer Science: </strong>"Università degli Studi di Salerno", Fisciano(SA), Italy. October 2021, GPA:3.56, final grade 108/110</li>
+<li> 📕 <strong>M.Sc. in Computer Science (Anticipated graduation date: October 2023): </strong>Specialization in Cybersecurity from Università degli Studi di Salerno, Fisciano(SA), Italy.</li>
+<li> 📕 <strong>B.Sc. in Computer Science (October 2021): </strong>Università degli Studi di Salerno, Fisciano(SA), Italy.
+  <ul><li>GPA:3.56</li> <li>final grade 108/110</li></ul></li>
 </ul>
 </p>
 
 <h2 align="left">Experience:</h1>
-<strong>B.Sc. Internship for Thesis work at Jheronimus Academy of Data Science:</strong>Eindhoven, NL, February 2021 - May 2021
+<strong>B.Sc. Internship at Jheronimus Academy of Data Science (February 2021 - May 2021)</strong> Eindhoven, NL:
+<ul><li>Completed thesis work and gained hands-on experience in data science.</li></ul>
 
 <h2 align="left">Projects highlights</h3>
-<p><strong>Micro/Macro-expressions analysis through landmark analysis:</strong> April 2022 - June 2022 - Teamwork (3 people)
+<p><strong>Micro/Macro-Expressions Analysis through Landmark Analysis (April 2022 - June 2022)</strong> 
 <ul>
-<li>Designed an AI pipeline that was capable of detecting a micro-expression with an accuracy nearly of 70% just by analizing landmarks position of facial features.</li>
-<li>Analyzed through landmark analysis the similarities among different emotions.</li>
-<li>Produced a formal paper were we described this novel approach.</li>
-<li>(Python, OpenCV, NumPy, Pandas, MediaPipe, Latex)</li>
+<li>Worked in a team of three to design and implement an AI pipeline for detecting micro-expressions with nearly 70% accuracy using landmark analysis of facial features.</li>
+<li>Analyzed the similarities among different emotions using landmark analysis.</li>
+<li>Produced a formal paper on this novel approach.</li>
+<li>Technologies used: Python, OpenCV, NumPy, Pandas, MediaPipe, LaTeX.
+</li>
 </ul>
 </p>
 
-<p><strong>Topic modelling on Dark-Websites:</strong> February 2021 - October 2021 - B.Sc. Thesis work
+<p><strong>Topic Modelling on Dark Websites (B.Sc. Thesis Work, February 2021 - October 2021)
+
+</strong> 
 <ul>
-<li>Designed an AI pipeline capable of extracting latent topics using Latent Dirichlet Allocation (LDA) in text scraped from the Dark Web in order to aid classification of potentially harmful websites.</li>
-<li>Enhanced the performance of LDA by 15% using genetic algorithms in order to find the optimal hyperparameters.</li>
-<li>Successfully collaborated with PhDs, researchers and professors from Jheronimus Academy of Data Science and Università degli Studi di Salerno during the whole experience.</li>
-<li>(Python, TextBlob, Beautiful Soup, Gensim, NumPy, Pandas, Scikit-learn, NLTK)</li>
+<li>Designed and implemented an AI pipeline using Latent Dirichlet Allocation (LDA) to extract latent topics from text scraped from the Dark Web, improving the performance of LDA by 15% using genetic algorithms.</li>
+<li>Collaborated with PhDs, researchers, and professors from Jheronimus Academy of Data Science and Università degli Studi di Salerno to complete this project.</li>
+<li>Technologies used: Python, TextBlob, Beautiful Soup, Gensim, NumPy, Pandas, Scikit-learn, NLTK.</li>
 </ul>
 </p>
 
 <h2 align="left">Activity and awards:</h1>
 <ul>
-<li>Awarded x5 scholarships founded by Università degli Studi di salerno, given to students who passed all the exams of the semester</li>
-<li>Helped over 1'700 students on stuDocu.com by publishing notes about computer science subjects as computer theory, algorithms, cryptography and networks.</li>
-<li>Reached over 1'300 people by publishing weekly original contents on Linkedin about different computer science topics.</li>
+<li>Awarded x5 scholarships from Università degli Studi di Salerno for consistently passing all exams.</li>
+<li>Helped over 1,700 students on stuDocu.com by publishing notes on computer science subjects such as computer theory, algorithms, cryptography, and networks.</li>
+<li>Reached over 1,300 people on LinkedIn by publishing weekly original content on various computer science topics.</li>
 </ul>
 
 <h2 align="left">Languages and Tools:</h3>
