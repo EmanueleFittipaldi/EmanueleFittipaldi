@@ -44,6 +44,16 @@
 </ul>
 </p>
 
+<h2 align="left">Technical skills</h3>
+<ul>
+  <li>Strong experience in team-based projects, AI (NLP, image processing, machine learning), software engineering, and technical writing (LaTeX).</li>
+  <li>Proficient in data science technologies such as Python, OpenCV, NumPy, Pandas, TextBlob, Beautiful Soup, and Gensim.</li>
+  <li>Skilled in programming languages such as SQL, Java, C, and Python, as well as HTML/CSS.
+</li>
+  <li>Familiar with technologies including AJAX, MongoDB, C#, and JavaScript, Flutter, Dart as demonstrated in university projects.
+</li>
+</ul>
+
 <h2 align="left">Activity and awards:</h1>
 <ul>
 <li>Awarded x5 scholarships from Università degli Studi di Salerno for consistently passing all exams.</li>
