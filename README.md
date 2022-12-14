@@ -61,16 +61,11 @@
 <li>Reached over 1,300 people on LinkedIn by publishing weekly original content on various computer science topics.</li>
 </ul>
 
-<h2 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>(proficient)<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> (basic)<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>(basic)<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>(proficient)<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>(basic)<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>(basic)<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>(proficient)
-<a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>(basic)<a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>(basic)<a href="https://www.latex-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/></a>(proficient)</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanueleFittipaldi&show_icons=true&locale=en" alt="EmanueleFittipaldi" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleFittipaldi&show_icons=true&locale=en&layout=compact" alt="ovi" />
-<h3 align="left">Leetcode status:</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EmanueleFittipaldi)](https://github.com/EmanueleFittipaldi/github-readme)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmanueleFittipaldi&label=Profile%20views&color=0e75b6&style=flat" alt="EmanueleFittipaldi" /> </p>
