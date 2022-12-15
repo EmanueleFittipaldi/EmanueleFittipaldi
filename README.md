@@ -60,12 +60,3 @@
 <li>Helped over 1,700 students on stuDocu.com by publishing notes on computer science subjects such as computer theory, algorithms, cryptography, and networks.</li>
 <li>Reached over 1,300 people on LinkedIn by publishing weekly original content on various computer science topics.</li>
 </ul>
-
-
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmanueleFittipaldi&label=Profile%20views&color=0e75b6&style=flat" alt="EmanueleFittipaldi" /> </p>
